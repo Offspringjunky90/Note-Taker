@@ -1,5 +1,9 @@
 # Note-Taker
 
+![alt text](https://github.com/Offspringjunky90/Note-Taker/blob/main/public/assets/img/Screenshot1.PNG?raw=true)
+
+Heroku- https://infinite-tundra-58504.herokuapp.com/
+
 ## Table of Contents
 
 -[User Story](#userstory)
